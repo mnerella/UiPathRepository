@@ -1,6 +1,6 @@
 {
-  "name": "GetTimeInBucharest",
-  "description": "This workflow gets the current time in Bucharest aind display it in output panel",
+  "name": "FirstProcess",
+  "description": "My first UIpath Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.2-preview]",
